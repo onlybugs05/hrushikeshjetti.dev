@@ -74,7 +74,23 @@ OnlyBugs is a collaborative space! We welcome security researchers, bug bounty h
       ```
 4.  **Submit a Pull Request**: Send your changes our way, and once reviewed, they'll be live on OnlyBugs!
 
+## 🛡️ Bug Bounty Program
+
+We take the security of our platform seriously. If you discover a vulnerability in any of our **original** repositories (excluding forked repos), we invite you to report it through our bug bounty program.
+
+### Bounties & Rewards
+Depending on the severity and impact of the reported vulnerability, we offer:
+- 🎁 **Exclusive Swag**
+- 💵 **Cash Bounties**: Ranging from **$100 USD to $1,000 USD**.
+
+### 📋 Program Terms
+- **Reporting**: Please send your findings to [onlybugs05@gmail.com](mailto:onlybugs05@gmail.com).
+- **Scope**: Only original repositories under the `@onlybugs05` organization. Forked repositories are **out of scope**.
+- **Discretion**: Bounty payments and amounts are at the sole discretion of the project owner.
+- **Availability**: Rewards are subject to fund availability at the time of the report.
+
 ## 🛠️ Deployments
+
 Pushes to `main` trigger the GitHub Actions workflow for GitHub Pages.
 
 
