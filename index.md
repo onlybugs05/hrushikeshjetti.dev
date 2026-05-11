@@ -17,10 +17,10 @@ title: Hrushikesh Jetti | Cybersecurity & Bug Bounty
 ## Security Focus
 
 <section class="focus-grid" aria-label="Security focus areas">
-  <article class="focus-card"><h3>Web App Pentesting</h3><p>Attack surface review, auth logic checks, and exploit path chaining.</p></article>
-  <article class="focus-card"><h3>Vulnerability Research</h3><p>Root cause analysis with clear reports and practical reproduction steps.</p></article>
-  <article class="focus-card"><h3>Bug Bounty Programs</h3><p>Real-world disclosure workflows tuned for speed, quality, and impact.</p></article>
-  <article class="focus-card"><h3>Smart Contract Security</h3><p>Security-first thinking for web3 integrations and contract interaction flows.</p></article>
+  <article class="focus-card" aria-labelledby="focus-web"><h3 id="focus-web">Web App Pentesting</h3><p>Attack surface review, auth logic checks, and exploit path chaining.</p></article>
+  <article class="focus-card" aria-labelledby="focus-research"><h3 id="focus-research">Vulnerability Research</h3><p>Root cause analysis with clear reports and practical reproduction steps.</p></article>
+  <article class="focus-card" aria-labelledby="focus-bounty"><h3 id="focus-bounty">Bug Bounty Programs</h3><p>Real-world disclosure workflows tuned for speed, quality, and impact.</p></article>
+  <article class="focus-card" aria-labelledby="focus-contract"><h3 id="focus-contract">Smart Contract Security</h3><p>Security-first thinking for web3 integrations and contract interaction flows.</p></article>
 </section>
 
 ## Stack
