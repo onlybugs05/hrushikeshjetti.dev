@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Blog
+title: Recon Logs
 permalink: /blog/
 ---
 
-Security notes, bug bounty learnings, and builder logs.
+Writeups, bug bounty notes, recon workflows, and security learnings.

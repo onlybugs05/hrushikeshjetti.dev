@@ -1,0 +1,71 @@
+---
+---
+
+@import "minima";
+
+:root {
+  --cyber-bg: #05070d;
+  --cyber-surface: #0b1220;
+  --cyber-line: #1c2a45;
+  --cyber-text: #e7f8ff;
+  --cyber-muted: #9eb4d6;
+  --cyber-accent: #00ffa3;
+}
+
+body {
+  background: radial-gradient(circle at 20% 0, #0f2038 0, var(--cyber-bg) 45%, #020307 100%);
+  color: var(--cyber-text);
+  font-family: Inter, "Segoe UI", system-ui, sans-serif;
+}
+
+.site-header,
+.site-footer {
+  background: rgba(8, 14, 26, 0.85);
+  border-color: var(--cyber-line);
+}
+
+.site-title,
+.site-nav .page-link,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--cyber-text);
+}
+
+.post-content,
+.home,
+.post-list > li,
+.page-content .wrapper {
+  color: var(--cyber-muted);
+}
+
+.post-list > li,
+.post,
+.page-content .wrapper {
+  background: rgba(11, 18, 32, 0.72);
+  border: 1px solid var(--cyber-line);
+  border-radius: 12px;
+  padding: 1.1rem;
+}
+
+.post-list-heading,
+.post-link,
+a {
+  color: var(--cyber-accent);
+}
+
+a:hover {
+  color: #78ffd0;
+  text-decoration: none;
+}
+
+.site-nav {
+  background: transparent;
+}
+
+.post-meta {
+  color: var(--cyber-muted);
+}

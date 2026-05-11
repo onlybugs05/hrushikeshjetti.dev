@@ -1,18 +1,18 @@
 ---
 layout: home
-title: Hey there, I'm Jetti Hrushikesh 👋🐛
+title: Hrushikesh Jetti | Cybersecurity & Bug Bounty
 ---
 
 @OnlyBugs05
 
-Bug Bounty Hunter · Cybersecurity Enthusiast · Solidity & React Native Developer
+Bug Bounty Hunter · Cybersecurity Researcher · Offensive Security Learner
 
 - Based in Hyderabad, India 🇮🇳
-- Focused on web app pentesting and responsible disclosure
-- Builds smart contracts and cross-platform mobile apps
-- Open-source contributor and continuous learner
+- Focused on web app pentesting and real-world attack surfaces
+- Reports responsible disclosures across bug bounty programs
+- Builds secure tooling and practical security workflows
 
-## Cybersecurity Focus
+## Attack Surface Focus
 
 - Web Application Pentesting
 - Vulnerability Research
@@ -21,7 +21,7 @@ Bug Bounty Hunter · Cybersecurity Enthusiast · Solidity & React Native Develop
 - Network Security
 - Secure Coding
 
-## Tech Stack
+## Arsenal
 
 Python · JavaScript · TypeScript · Solidity · React Native · Node.js · Linux · Git
 
