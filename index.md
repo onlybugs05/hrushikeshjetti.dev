@@ -8,20 +8,21 @@ title: Jetti Hrushikesh | @OnlyBugs05
   <div class="focus-grid">
     <div class="card focus-card">
       <h3>🔎 Web Pentesting</h3>
-      <p>Testing web applications for common vulnerabilities like OWASP Top 10.</p>
+      <p>Systematic assessment of web infrastructures, focusing on business logic flaws, auth bypasses, and multi-stage exploit chaining.</p>
     </div>
     <div class="card focus-card">
       <h3>🐛 Vuln Research</h3>
-      <p>Deep diving into software to find and responsibly disclose bugs.</p>
+      <p>Performing root-cause analysis and responsible disclosure to harden software and protect the global user base.</p>
     </div>
     <div class="card focus-card">
       <h3>🔐 Bug Bounty</h3>
-      <p>Active hunter on HackerOne, securing global platforms.</p>
+      <p>Consistently ranking on platforms like HackerOne by uncovering high-impact vulnerabilities in enterprise environments.</p>
     </div>
     <div class="card focus-card">
       <h3>⛓️ Web3 Security</h3>
-      <p>Auditing Solidity smart contracts and blockchain protocols.</p>
+      <p>Auditing Solidity contracts and DeFi protocols to ensure asset safety and protocol integrity against advanced attack vectors.</p>
     </div>
+
   </div>
 </section>
 

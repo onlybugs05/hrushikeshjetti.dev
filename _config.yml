@@ -1,5 +1,12 @@
 title: Hrushikesh Jetti | @OnlyBugs05
-description: Bug Bounty Hunter, Cybersecurity Enthusiast, and Solidity Developer.
+description: Bug Bounty Hunter and Blockchain Developer securing the web through responsible disclosure and smart contract auditing. Specialized in Web3 security, offensive research, and mobile engineering.
+tagline: "Securing the future, one bug at a time."
+social:
+  name: Jetti Hrushikesh
+  links:
+    - https://github.com/onlybugs05
+    - https://hackerone.com/onlybugs05
+
 url: "https://hrushikeshjetti.dev"
 author:
   name: Jetti Hrushikesh
