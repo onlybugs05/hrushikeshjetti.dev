@@ -1,0 +1,21 @@
+title: Hrushikesh Jetti
+description: Bug bounty hunter, cybersecurity enthusiast, and builder.
+url: "https://hrushikeshjetti.dev"
+theme: minima
+author:
+  name: Hrushikesh Jetti
+  github: onlybugs05
+show_excerpts: true
+minima:
+  social_links:
+    - title: GitHub
+      icon: github
+      url: "https://github.com/onlybugs05"
+    - title: HackerOne
+      icon: link
+      url: "https://hackerone.com/onlybugs05"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+header_pages:
+  - blog.md
