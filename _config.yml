@@ -1,21 +1,28 @@
-title: Hrushikesh Jetti
-description: Bug bounty hunter, cybersecurity enthusiast, and builder.
+title: Hrushikesh Jetti | @OnlyBugs05
+description: Bug Bounty Hunter, Cybersecurity Enthusiast, and Solidity Developer.
 url: "https://hrushikeshjetti.dev"
-theme: minima
 author:
-  name: Hrushikesh Jetti
+  name: Jetti Hrushikesh
   github: onlybugs05
-show_excerpts: true
-minima:
-  social_links:
-    - title: GitHub
-      icon: github
-      url: "https://github.com/onlybugs05"
-    - title: HackerOne
-      icon: link
-      url: "https://hackerone.com/onlybugs05"
+  twitter: onlybugs05
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-header_pages:
-  - blog.md
+
+# Custom Theme Settings
+accent_color: "#00F72B"
+google_fonts: "Inter:wght@400;700|Fira+Code:wght@400;700"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+

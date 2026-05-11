@@ -1,41 +1,46 @@
-# hrushikeshjetti.dev
+# OnlyBugs - hrushikeshjetti.dev
 
-Personal website and security blog for **Hrushikesh Jetti**.
+Premium personal portfolio and security research blog for **Jetti Hrushikesh (@OnlyBugs05)**.
 
 Live: **https://hrushikeshjetti.dev**
 
-## Tech stack
+## ✨ Theme: OnlyBugs Premium
+A custom-built, high-performance Jekyll theme designed for security researchers and bug bounty hunters.
 
-- GitHub Pages
-- Jekyll (minima theme)
-- SCSS styling in `assets/main.scss`
-- Markdown content pages and posts
+- **Aesthetics**: Dark mode, glassmorphism, neon green accents.
+- **Tech Stack**: Jekyll, Vanilla CSS, Inter & Fira Code typography.
+- **Features**:
+  - Dynamic Hero section with typing effects.
+  - YAML-style "About Me" card.
+  - Interactive tech stack badges.
+  - Live GitHub stats integration.
+  - Automated SEO and social tags.
 
-## What’s in this repo
+## 🚀 Structure
 
-- `index.md` → homepage content
-- `blog.md` → blog landing page
-- `_posts/` → blog posts
-- `_config.yml` → site config, metadata, plugins
-- `.github/workflows/jekyll-gh-pages.yml` → deployment workflow
+- `index.md` → Homepage with profile, tech stack, and stats.
+- `blog.md` → Research & Recon Logs landing page.
+- `terms.md` → Affiliate Terms of Service.
+- `_layouts/` → Custom HTML templates (default, home).
+- `assets/css/main.css` → Core design system and styles.
+- `assets/js/main.js` → Interactive components and animations.
 
-## Add a blog post
+## 📝 Creating Content
 
-Create a file at:
-
-`_posts/YYYY-MM-DD-title.md`
-
-Use this front matter:
+### Add a Research Log (Post)
+Create a file at `_posts/YYYY-MM-DD-title.md`:
 
 ```md
 ---
-layout: post
-title: "Your title"
-date: YYYY-MM-DD HH:MM:SS +0000
-categories: [blog]
+layout: default
+title: "Finding XSS in Company X"
+date: YYYY-MM-DD
+categories: [security, bug-bounty]
 ---
+
+Content goes here...
 ```
 
-## Deployments
+## 🛠️ Deployments
+Pushes to `main` trigger the GitHub Actions workflow for GitHub Pages.
 
-Pushes to `main` trigger the GitHub Actions workflow that builds and deploys the site to GitHub Pages.
