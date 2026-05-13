@@ -50,6 +50,14 @@
     </div>
   </footer>
 
+  <script>
+    window.onload = function() {
+      console.log("DOM loaded. Checking ad placeholders...");
+      const banners = document.querySelectorAll('[data-mndbanid]');
+      console.log("Found " + banners.length + " ad containers.");
+    };
+  </script>
   <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+
 </body>
 </html>
