@@ -19,11 +19,8 @@ layout: default
     {% endif %}
   </header>
 
-  <div style="margin: 2rem 0; display: flex; justify-content: center;">
-    <div data-mndbanid="ab98edda-03f0-43cf-851a-4a8de9be57b3"></div>
-  </div>
-
   <div class="card content-area">
+
 
     {{ content }}
   </div>
@@ -57,24 +54,6 @@ layout: default
   color: var(--accent-color);
   font-family: var(--font-mono);
 }
-
-/* Ad Placeholders */
-[data-mndbanid] {
-  min-height: 100px;
-  min-width: 300px;
-  background: rgba(255, 255, 255, 0.02);
-  border: 1px dashed rgba(255, 255, 255, 0.1);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  position: relative;
-}
-
-[data-mndbanid]::before {
-  content: 'ADVERTISEMENT';
-  font-size: 0.7rem;
-  color: var(--text-muted);
-  letter-spacing: 2px;
-}
 </style>
+
 

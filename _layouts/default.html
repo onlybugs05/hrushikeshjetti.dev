@@ -1,12 +1,10 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: 'en-US' }}">
 <head>
-
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <script async src="https://ss.mrmnd.com/static/7d71a5b8-526c-4183-b248-0157494f5002.js"></script>
-  <script async src="https://ss.mrmnd.com/banner.js"></script>
   {% seo %}
+
 
 
 
@@ -37,9 +35,6 @@
 
   <footer class="site-footer">
     <div class="container">
-      <div style="margin-bottom: 2rem; display: flex; justify-content: center;">
-        <div data-mndbanid="ab98edda-03f0-43cf-851a-4a8de9be57b3"></div>
-      </div>
       <p class="footer-quote">"The best security researchers are those who never stop learning." 🔐</p>
 
       <div class="social-links">
@@ -50,13 +45,6 @@
     </div>
   </footer>
 
-  <script>
-    window.onload = function() {
-      console.log("DOM loaded. Checking ad placeholders...");
-      const banners = document.querySelectorAll('[data-mndbanid]');
-      console.log("Found " + banners.length + " ad containers.");
-    };
-  </script>
   <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
 
 </body>
