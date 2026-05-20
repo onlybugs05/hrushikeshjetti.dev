@@ -8,7 +8,7 @@ permalink: /terms/
   <h1>Terms of Service</h1>
   <p><em>Last Updated: {{ site.time | date: "%B %d, %Y" }}</em></p>
 
-  <p>WHEREAS, PopAds, is am online advertising network owned and operated by PopAds International Limited registered in Ras al Khaimah, UAE.</p>
+  <p>WHEREAS, PopAds is an online advertising network owned and operated by PopAds International Limited registered in Ras al Khaimah, UAE.</p>
   <p>WHEREAS, Affiliate desires to participate in the Pop-under advertising network through Popads.net.</p>
   <p>This Agreement shall govern participation in the Pop-under Advertising Network (Program) offered by Popads.net. By participating in the Program, you will be deemed to have agreed to these Terms and Conditions. Affiliate must complete and submit a Program application and registration form.</p>
 
