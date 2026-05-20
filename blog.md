@@ -26,4 +26,3 @@ permalink: /blog/
     {% endfor %}
   </div>
 </div>
-security learnings.
